@@ -65,3 +65,6 @@ Repository contains stable version used during contest evaluation.
 Note: The repository contains the stable implementation used for live paper trading during the SecureFinAI Task V evaluation period (Apr 20 – May 1, 2026). 
 Experimental prototypes and backtesting utilities are excluded to ensure reproducibility.
 
+run_trading_system.py:
+Supervisory script that runs the trading loop continuously and automatically restarts execution in case of network interruptions or temporary failures. This ensures uninterrupted operation during the contest evaluation period.
+

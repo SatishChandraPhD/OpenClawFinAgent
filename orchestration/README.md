@@ -1,4 +1,9 @@
-This folder contains tht stable versions of the following programs:
-1. llm_trading_loop.py: this file contains the stable version of the code that executes the live paper trading (including the live run from 20 April to 1 May for the SecureFinAI Task 5 Contest)
-2, baseline_trading_loop.py: this file contains the stable version of the code that runs live paper trading without LLM generated sentiment signals. This is only for reference and comparison 
-but not to be run during the live paper trading during the contest window.
+orchestration/
+
+This folder contains the main trading loop implementations.
+
+llm_trading_loop.py:
+Stable version of the live trading engine used during the SecureFinAI Task 5 evaluation period (Apr 20 – May 1). The loop integrates technical indicators, LLM-based sentiment signals, macro signals, and risk management to generate portfolio actions.
+
+baseline_trading_loop.py:
+Reference implementation that executes trading decisions using only deterministic technical indicators. This file is provided for comparison purposes and is not used during the contest evaluation window.

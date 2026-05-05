@@ -43,3 +43,4 @@ https://github.com/SatishChandraPhD/OpenClawFinAgent/tree/main/evaluation
 ## Presentation
 
 Slides for the conference presentation, explaining the approach and results, are attached.
+contest_results_2026/IDS2026_4921_slides.pdf 

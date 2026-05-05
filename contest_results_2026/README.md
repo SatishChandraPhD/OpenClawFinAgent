@@ -35,10 +35,11 @@ To ensure fair comparison and compliance with contest requirements, all results 
 Results were generated using:
 evaluation/generate_submission_package.py
 
-## Presentation
-
-Slides for the conference presentation, IDS2026_4921_slides.pdf, are attached.
-
 
 GitHub path:
 https://github.com/SatishChandraPhD/OpenClawFinAgent/tree/main/evaluation
+
+
+## Presentation
+
+Slides for the conference presentation, explaining the approach and results, are attached.
